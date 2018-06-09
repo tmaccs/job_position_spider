@@ -1,0 +1,34 @@
+{
+    "job_position":{
+        "heads": ["职位", "职位来源","关键字","session", "职位链接", "公司名", "公司所属行业", "公司性质", "公司规模", "公司地址", "部门", "职位类别", "下属人数", "招聘人数", "工作地点", "发布时间", "汇报对象", "年薪范围", "职位描述", "工作经验", "学历要求", "年龄要求", "是否统招全日制", "专业要求", "海外经历", "语言要求", "公司介绍"],
+        "line":{
+            "职位": "position",
+            "职位来源": "source",
+            "关键字": "keyword",
+            "session": "session",
+            "职位链接": "page_url",
+            "公司名": "company_name",
+            "公司所属行业": "company_trade",
+            "公司性质": "company_type",
+            "公司规模": "company_size",
+            "公司地址": "company_address",
+            "部门": "department",
+            "职位类别": "job_type",
+            "下属人数": "subordinate",
+            "招聘人数": "requirement",
+            "工作地点": "work_place",
+            "发布时间": "publish_time",
+            "汇报对象": "supervisor",
+            "年薪范围": "salary",
+            "职位描述": "job_detail",
+            "工作经验": "experience",
+            "学历要求": "education",
+            "年龄要求": "age",
+            "是否统招全日制": "full_time",
+            "专业要求": "major",
+            "海外经历": "oversea",
+            "语言要求": "language",
+            "公司介绍": "company_detail"
+        }
+    }
+}
